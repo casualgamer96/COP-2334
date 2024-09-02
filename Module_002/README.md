@@ -11,3 +11,7 @@
     annualPay    This variable will hold the employee's total annual pay, which will be calculated.
 
     The program should calculate the employee's total annual pay by multiplying the employee's pay amount by the number of pay periods in a year and store the result in the annualPay variable. Display the total annual pay on the screen.
+
+## Screen shots
+
+![VS Code Screenshot](<Screenshot 2024-09-02 162810.png>)
