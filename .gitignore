@@ -1,0 +1,11 @@
+**/.git
+*.code-workspace
+*.deps.json
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.runtimeconfig.json
+appsettings.Development.json
+appsettings.json
