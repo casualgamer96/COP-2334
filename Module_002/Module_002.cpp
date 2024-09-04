@@ -14,6 +14,7 @@
 */
 // Program initiation.
 #include <iostream>
+using namespace std;
 
 // Main program loop for displaying information.
 int main()
@@ -27,7 +28,7 @@ int main()
     annualPay = payAmount * payPeriods;
 
     // Print out the calculated annual pay for the employee.
-    std::cout << "The employees annual pay is " << annualPay ;
+    cout << "The employees annual pay is " << annualPay << endl;
 
     return 0;
 }
