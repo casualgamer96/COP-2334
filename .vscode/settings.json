@@ -1,4 +1,7 @@
 {
     "files.eol": "\n",
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
